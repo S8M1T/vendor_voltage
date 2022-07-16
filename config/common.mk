@@ -109,7 +109,6 @@ PRODUCT_PACKAGES_DEBUG += \
 PRODUCT_PACKAGES += \
     adb_root
 
-
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += vendor/voltage/config/device_framework_matrix.xml
 
 # Dex preopt
